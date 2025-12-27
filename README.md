@@ -9,20 +9,6 @@
 
 <p align="center">I'm Rodolfo an engineering student. I'm passionate about technology, especially in backend development, databases, web and desktop applications. I like to explore new languages ​​like C, Python, Java, JavaScript.</p>
 
-<h3>Reach me out :</h3>
-
-<p align="center">
-    <a href="https://www.linkedin.com/in/aparicio-rodolfo-25814b315/">
-        <img src="https://img.shields.io/badge/Aparicio%20Rodolfo-blue?style=flat-square&logo=linkedin&logoColor=white&label=Linkedin&labelColor=%230A66C2&color=grey" alt="LinkedIn Badge">
-    </a>
-    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rodo.aparicio.lopez@gmail.com&su=Cual%20es%20tu%20asunto?&body=Contenido%20del%20correo">
-        <img src="https://img.shields.io/badge/Aparicio%20Lopez-red?style=flat-square&logo=gmail&logoColor=white&label=Gmail&labelColor=%23EA4335&color=grey" alt="Gmail Badge">
-    </a>
-    <a href="https://www.instagram.com/morty.mer_ia/profilecard/?igsh=NW11OHZsNTZnYnB4">
-        <img src="https://img.shields.io/badge/Rodolfo-red?style=flat-square&logo=instagram&logoColor=white&label=Instagram&labelColor=%23E4405F&color=grey" alt="Instagram Badge">
-    </a>
-</p>
-
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
